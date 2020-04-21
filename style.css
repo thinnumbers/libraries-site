@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+body{
+  background-color: #f55d5d;
+  margin:0;
+}
+h2{
+  font-family: 'Acme', sans-serif;
+  text-align: center;
+  font-size: 300%;
+  background-image: url('https://i.imgur.com/0AXliCu.png');
+  background-position: center;
+  background-size: cover;
+  padding: 100px;
+  margin:0;
+}
+.info{
+  font-family: 'Oswald', sans-serif;
+  font-size: 300%;
+  margin:100px;
+  text-align: center;
+}
+.arrow{
+  height:330px;
+  width:330px;
+}
+img{
+  height:520px;
+  width:500px;
+}
+li{
+  text-align: center;
+}
+.glide__arrow{
+  background-color: red;
+}
